@@ -8,5 +8,5 @@
 Feel free to leave a feedback
 
 <h2></h2>
-<img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png"/>This was my first project in C, really simple but enjoyable.
+<h5><img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png"/><br>This was my first project in C, really simple but enjoyable.<br><br>Thank you for checking and HAVE FUN!</h5>
 
